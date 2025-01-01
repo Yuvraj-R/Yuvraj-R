@@ -5,7 +5,7 @@
 - 🌱 I'm currently learning LangChain, RAG, and Kafka.
 ## 🔧 Technologies
 - Programming Languages: JavaScript, TypeScript, Python, Java, Rust
-- Frameworks & Tools: React / React Native, Node.js, Flask, AWS, Docker, PostgreSQL, MongoDB
+- Frameworks & Tools: React / React Native, Node.js (Express.js), Flask, AWS, Docker, PostgreSQL, MongoDB
 
 ## 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/yuvraj-rekhi/)
