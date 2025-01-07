@@ -2,10 +2,10 @@
 
 - 🚀 I'm a Junior studying Computer Science at the University of Maryland.
 - 👀 I’m interested in Full Stack Development, Cloud Computing, and Gen AI.
-- 🌱 I'm currently learning LangChain, RAG, and Kafka.
+- 🌱 I'm currently learning Kafka & Kubernetes.
 ## 🔧 Technologies
 - Programming Languages: JavaScript, TypeScript, Python, Java, Rust
-- Frameworks & Tools: React / React Native, Node.js (Express.js), Flask, AWS, Docker, PostgreSQL, MongoDB
+- Frameworks & Tools: React / React Native, Node.js (Express.js), Flask, AWS, Docker, PostgreSQL, MongoDB, LangChain
 
 ## 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/yuvraj-rekhi/)
