@@ -4,7 +4,7 @@
 - 👀 I’m interested in Full Stack Development, Cloud Computing, and Gen AI.
 - 🌱 I'm currently working on Advent of Code [here](https://github.com/Yuvraj-R/AdventOfCode).
 ## 🔧 Technologies
-- Programming Languages: JavaScript, TypeScript, Python, Java, Rust
+- Programming Languages: Python, Java, JavaScript, TypeScript, C, Rust
 - Frameworks & Tools: React / React Native, Node.js (Express.js), Flask, AWS, Docker, PostgreSQL, MongoDB, LangChain
 
 ## 📫 How to Reach Me
