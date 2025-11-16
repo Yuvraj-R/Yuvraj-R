@@ -1,8 +1,7 @@
 # Hi, I'm Yuvraj Rekhi! 👋
 
 - 🚀 I'm a Junior studying Computer Science at the University of Maryland.
-- 👀 I’m interested in Full Stack Development, Cloud Computing, and Gen AI.
-- 🌱 I'm currently working on Advent of Code [here](https://github.com/Yuvraj-R/AdventOfCode).
+- 👀 I’m interested in Financial Technology, Full Stack Development, Cloud Computing, and Gen AI.
 ## 🔧 Technologies
 - Programming Languages: Python, Java, JavaScript, TypeScript, C, Rust
 - Frameworks & Tools: React / React Native, Node.js (Express.js), Flask, AWS, Docker, PostgreSQL, MongoDB, LangChain
